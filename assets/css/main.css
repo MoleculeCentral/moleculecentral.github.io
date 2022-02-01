@@ -4152,3 +4152,9 @@ input, select, textarea {
 		}
 
 	}
+
+
+    .logo img {
+        width:100%;
+        max-width:400px;
+    }
